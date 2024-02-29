@@ -13,6 +13,8 @@ For this project, we will assume the role of a Data Scientist / Data Analyst wor
 - [Tools](#tools)
 - [Deliverables](#deliverables)
 - [Stretch Goals](#stretch-goals)
+- [Knowledge Acquired](#knowledge-acquired)
+- [Process](#process)
 
 ## Tools
 
@@ -30,3 +32,17 @@ For this project, we will assume the role of a Data Scientist / Data Analyst wor
 ## Stretch Goals
 
 - [ ] Finish base app first
+
+## Knowledge Acquired
+
+I learned a lot.
+
+## Process
+
+1. Data Collection
+
+- I used Beautiful Soup to collect data.
+
+2. Data Cleaning
+
+- Using NumPy and Pandas to perform operations to get clean data. The clean datasets are paramount to a good analysis.
