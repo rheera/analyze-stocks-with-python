@@ -29,10 +29,10 @@ There are two hands-on labs on Extracting Stock Data and one assignment to compl
 - Python Web Scraping (Beautiful Soup)
 - Python Data Libraries (NumPy, Pandas)
 - Data visualization tools
-- y-finance API
-  - for stock information
-- matplotlib and plotly
-  - for plotting
+  - y-finance API
+    - for stock information
+  - matplotlib and plotly
+    - for plotting
 
 ## Deliverables
 
@@ -42,7 +42,7 @@ There are two hands-on labs on Extracting Stock Data and one assignment to compl
 
 ## Stretch Goals
 
-- [ ] Make the dates for the two graphs the same so the viusalizations can be compared easier.
+- [ ] Make the dates for the two graphs the same so the viusalizations can be compared easier
 
 ## Knowledge Acquired
 
