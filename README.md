@@ -28,9 +28,9 @@ There are two hands-on labs on Extracting Stock Data and one assignment to compl
 - Python v3.10.13
 - Python Web Scraping (Beautiful Soup)
 - Python Data Libraries (NumPy, Pandas)
+- y-finance API
+  - for stock information
 - Data visualization tools
-  - y-finance API
-    - for stock information
   - matplotlib and plotly
     - for plotting
 
