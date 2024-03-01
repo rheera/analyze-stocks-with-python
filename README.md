@@ -16,6 +16,8 @@ There are two hands-on labs on Extracting Stock Data and one assignment to compl
 - [Deliverables](#deliverables)
 - [Stretch Goals](#stretch-goals)
 - [Knowledge Acquired](#knowledge-acquired)
+  - [Lab 1](#lab-1)
+  - [Lab 2](#lab-2)
 - [Process](#process)
 
 ## Tools
@@ -41,7 +43,13 @@ There are two hands-on labs on Extracting Stock Data and one assignment to compl
 
 ## Knowledge Acquired
 
-I learned a lot.
+### Lab 1
+
+Using the **y-finance** package to get ticker data on stocks. Then **plotting** that data with **MatPlotLib** and **Plotly**.
+
+### Lab 2
+
+Using **requests** library to get **HTML** data from a website. Then **parsing** the data using **BeautifulSoup**. Afterwards using **Pandas** to convert the data into a usable **DataFrame** to pull out key values from the tables.
 
 ## Process
 
