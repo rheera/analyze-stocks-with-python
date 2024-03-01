@@ -38,11 +38,11 @@ There are two hands-on labs on Extracting Stock Data and one assignment to compl
 
 - [x] Extracting Stock Data Lab
 - [x] Extracting Stock Data with Web Scraping Lab
-- [ ] Assignment
+- [x] Assignment
 
 ## Stretch Goals
 
-- [ ] Finish base app first
+- [ ] Make the dates for the two graphs the same so the viusalizations can be compared easier.
 
 ## Knowledge Acquired
 
