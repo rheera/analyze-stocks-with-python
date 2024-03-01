@@ -6,7 +6,9 @@
 
 This is the final project for Course 5, _Python for Data Science, AI & Development_. Part of IBM Data Analyst Professional Certificate from Coursera. Avaible here: https://www.coursera.org/programs/jda20232t1-z1hse/professional-certificates/ibm-data-analyst?collectionId=Wxyxq
 
-For this project, we will assume the role of a Data Scientist / Data Analyst working for a new startup investment firm / hedge fund that helps customers invest their money in stocks. Our job is to extract financial data like historical share price and quarterly revenue reportings from various sources using Python libraries and webscraping on popular stocks. We must also look out for any suspicious stock activity. After collecting this data we will visualize it in a dashboard to identify patterns or trends. The stocks we will work with are Tesla, Amazon, AMD, and GameStop.
+For this project, we will assume the role of a Data Scientist / Data Analyst working for a new startup investment firm that helps customers invest their money in stocks. Our job is to extract financial data like historical share price and quarterly revenue reportings from various sources using Python libraries and webscraping on popular stocks. We must also look out for any suspicious stock activity. After collecting this data we will visualize it in a dashboard to identify patterns or trends. The stocks we will work with are Tesla, Amazon, AMD, and GameStop.
+
+As a data scientist working for a hedge fund, you will extract the profit data for Tesla and GameStop and build a dashboard to compare the price of the stock vs the profit for the hedge fund.
 
 There are two hands-on labs on Extracting Stock Data and one assignment to complete.
 
@@ -28,7 +30,7 @@ There are two hands-on labs on Extracting Stock Data and one assignment to compl
 - Data visualization tools
 - y-finance API
   - for stock information
-- matplotlib
+- matplotlib and plotly
   - for plotting
 
 ## Deliverables
@@ -45,7 +47,7 @@ There are two hands-on labs on Extracting Stock Data and one assignment to compl
 
 ### Lab 1
 
-Using the **y-finance** package to get ticker data on stocks. Then **plotting** that data with **MatPlotLib** and **Plotly**.
+Using the **y-finance** package to get ticker data on stocks. Then **plotting** that data with **MatPlotLib**.
 
 ### Lab 2
 
